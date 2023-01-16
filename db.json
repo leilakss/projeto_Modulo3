@@ -1,0 +1,75 @@
+{
+    "Hamburgueres":[
+        {
+            "id": 1,
+            "nome": "x-burguer",
+            "preco": 10.50,
+            "sinopse":"pão tradicional, carne grelhada, queijo mussarela, alface, tomate e molhos"
+        },
+        {
+            "id": 2,
+            "nome": "x-bacon",
+            "preco":20.29,
+            "sinopse":"pão tradicional, carne grelhada,queijo prato, tiras de bacon, alface, tomate e molhos"
+        },
+        {
+            "id": 3,
+            "nome": "x-calabresa",
+            "preco":20.9,
+            "sinopse": "pão tradicional, carne grelhada,queijo prato, calabresa, alface, tomate e molhos"
+        },
+        {
+            "id": 4,
+            "nome": "x-tudo",
+            "preco": 29.5,
+            "sinopse": "pão tradicional, carne grelhada, queijo mussarela,calabresa, ovos, bacon, alface, tomate e molhos"
+        },
+        {
+            "id": 5,
+            "nome": "hambuerguer Artesanal",
+            "preco": 34.99,
+            "sinopse": "pão com gergilim, carne grelhada, cebola caramelizada, alface americana, tomate, queijo prato e molhos"
+        },
+        {
+            "id": 6,
+            "nome": "Hambuerguer de picanha com guacamole",
+            "preco": 45.00,
+            "sinopse": " Pão com gergilim, picanha 150gm, queijo prato e guacamole "
+        }
+      
+        
+       
+    ],
+    "combos ":[
+        {
+            "id": 1,
+            "nome": "combo solitario 1",
+            "preco": 28.90,
+            "descricao": "x-burguer, guaravita e batata pequena"
+        },
+        {
+            "id": 2,
+            "nome": "combo solitario 2",
+            "preco": 41,
+            "descricao": "x-tudo, coca-cola 500ml e batata frita"
+        },
+        {
+            "id": 3,
+            "nome": "combo amizade",
+            "preco":49.9,
+            "descricao": "3 x-tudo,  coca-cola 500ml e batata média"
+        },
+        {
+            "id": 4,
+            "nome": "",
+            "preco": 65.00,
+            "descricao": " hamburguer artesanal, coca-cola 500ml e batata frita"
+        },
+        {
+            "id": 5,
+            "nome": "combo familia",
+            "preco": 105.00,
+            "descricao": " 5 hamburgueres artesanais, coca-cola 2l e balde de batata frita "
+        }
+    ]
+}
